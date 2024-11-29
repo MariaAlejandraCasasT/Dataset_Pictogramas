@@ -1,0 +1,1 @@
+Este dataset fue tomado desde https://mulberrysymbols.org/ y se hizo una traducción de algunos atributos al español. “Copyright 2018/19 Steve Lee - Este trabajo está licenciado bajo la licencia Creative Commons Attribution-ShareAlike 2.0 UK: England & Wales License.”
